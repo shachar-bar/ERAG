@@ -1,0 +1,2 @@
+Query: What percentage of Kenvue's shares did Johnson & Johnson own immediately after Kenvue's IPO?
+Answer: 90.9%
