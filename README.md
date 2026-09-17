@@ -11,7 +11,7 @@
 &emsp;note    = {Manuscript submitted for publication and is under review with the Computers and Electrical Engineering journal},  
 &emsp;year    = {2026},  
 &emsp;howpublished = "\url{https://github.com/shachar-bar/ERAG/}",  
-&emsp;language    = "en"
+&emsp;language    = "en"  
 } 
   
 Thank you.  
